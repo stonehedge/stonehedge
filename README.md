@@ -10,32 +10,32 @@ Components
 
 #### Privacy Level: Public
 
-  - Instance Group: **Bastion**
-    - Secure landing strip for interactive login (openssh-server)
-  - Instance Group: **Anchor**
+  - **Anchor Instances**
     - Caching proxy for AWS APIs and distro package downloads (squid-proxy)
     - Continuous integration engine (jenkins)
     - Email relay server (postfix-server)
     - Identity, DNS and time server (freeipa-server)
     - Monitor and alert server (sensu-server)
     - Monitor dashboard (sensu-admin)
+  - **Bastion Instances**
+    - Secure landing strip for interactive login (openssh-server)
 
 #### Privacy Level: Private
 
-  - Instance Group: **Barrow**
+  - **Barrow Instances**
     - Logs dashboard (kibana)
     - Logs storage (elasticsearch-server)
     - Logs transport (logstash-server)
     - Metrics dashboard (graphiti)
     - Metrics storage (graphite)
-  - Instance Group: **Lintel**
+  - **Lintel Instances**
     - Distributed configuration service (zookeeper)
     - Distributed configuration service supervisor (exhibitor)
     - Cluster manager (mesos-master)
     - Framework for long running services (marathon-server)
     - Mesh VPN cluster fabric (peervpn)
     - Distributed file system (glusterfs-server)
-  - Instance Group: **Trilithon**
+  - **Trilithon Instances**
 
 Cookbooks
 ---------

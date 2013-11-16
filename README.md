@@ -15,12 +15,12 @@ Components
 
   - Anchor
     - Functions
-      - Caching proxy for AWS APIs & Ubuntu package downloads (squid-proxy)
+      - Caching proxy for AWS APIs and Ubuntu package downloads (squid-proxy)
       - Monitor server (sensu-server)
       - Monitor dashboard (sensu-admin)
       - Email relay server (postfix-server)
       - Continuous integration engine (jenkins)
-      - Identity & DNS and time server (freeipa-server)
+      - Identity, DNS and time server (freeipa-server)
   - Bastion
     - Functions
       - Secure landing strip for interactive login (openssh-server)

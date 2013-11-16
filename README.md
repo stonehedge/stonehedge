@@ -8,5 +8,21 @@ Components
 ----------
 
 
+
+### Privacy Levels : Instance Tiers
+
+* Public
+  - Anchor
+  - Bastion
+* Private
+  - Barrow
+  - Lintel
+  - Trilithon
+
 ### Cookbooks
+  - stonehedge-anchor
+  - stonehedge-barrow
   - stonehedge-base
+  - stonehedge-bastion
+  - stonehedge-lintel
+  - stonehedge-trilithon

@@ -13,17 +13,15 @@ Components
 
 #### Public Privacy Level
 
-  - Anchor
-    - Functions
-      - Caching proxy for AWS APIs and Ubuntu package downloads (squid-proxy)
-      - Monitor server (sensu-server)
-      - Monitor dashboard (sensu-admin)
-      - Email relay server (postfix-server)
-      - Continuous integration engine (jenkins)
-      - Identity, DNS and time server (freeipa-server)
   - Bastion
-    - Functions
-      - Secure landing strip for interactive login (openssh-server)
+    - Secure landing strip for interactive login (openssh-server)
+  - Anchor
+    - Caching proxy for AWS APIs and Ubuntu package downloads (squid-proxy)
+    - Continuous integration engine (jenkins)
+    - Email relay server (postfix-server)
+    - Identity, DNS and time server (freeipa-server)
+    - Monitor server (sensu-server)
+    - Monitor dashboard (sensu-admin)
 
 #### Private Privacy Level
 

@@ -18,7 +18,7 @@ Components
     - Monitor and metrics agent (sensu-client)
     - Rootkit scanner (rootkit-hunter)
     - Secure transport (openssh-server)
-    - Software RAID (mdadm + msdos-mbr)
+    - Software RAID (mdadm)
     - Stateful packet inspection firewall (netfilter + iptables + ufw)
     - Time synchronization (ntp-client)
 

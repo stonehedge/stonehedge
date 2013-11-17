@@ -1,7 +1,7 @@
 Stonehedge
 ==========
 
-A fortified warehouse-scale computing platform developed at [Wrale](https://www.linkedin.com/in/jmdots) for AWS EC2 VPCs.
+A fortified warehouse-scale computing platform developed at [Wrale](https://www.linkedin.com/in/jmdots) for AWS EC2 multi-zone VPCs.
 
 - **Version**: 0.1.0
 - **Status**: Early development (unstable)

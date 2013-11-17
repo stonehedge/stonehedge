@@ -11,6 +11,7 @@ Features
 --------
 
 - Boto
+- Berkshelf
 - CFNdsl
 - Chef
 - Chronos

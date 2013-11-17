@@ -13,7 +13,7 @@ Features
 - Boto
 - Berkshelf
 - CFNdsl
-- Chef
+- Chef Solo
 - Chronos
 - ElasticSearch
 - Exhibitor
@@ -69,7 +69,7 @@ Components
 #### Privacy Level: All
 
   - **All Instances: Baseline**
-    - Configuration management (chef-client)
+    - Configuration management (chef-solo)
     - Encrypted backups (duplicity + rdiff-backup + duply)
     - Local email relay (postfix-server)
     - GNU/Linux operating system (ubuntu-12.04.latest.x86_64 + 3.8 kernel)

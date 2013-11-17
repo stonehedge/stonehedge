@@ -16,6 +16,7 @@ Features
 - ElasticSearch
 - Exhibitor
 - FreeIPA
+- Graphite
 - Graphiti
 - GlusterFS + HDFS connector
 - Kibana

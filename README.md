@@ -49,7 +49,7 @@ Components
   - S3
   - SNS
   - VPC
-- Mailchimp
+- MailChimp
   - Mandrill
 
 

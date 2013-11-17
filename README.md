@@ -10,6 +10,7 @@ A fortified warehouse-scale computing platform developed at [Wrale](https://www.
 Features
 --------
 
+- CFNdsl
 - Chef
 - Chronos
 - ElasticSearch
@@ -28,7 +29,6 @@ Features
 - Sensu
 - Smartstack Nerve
 - Smartstack Synapse
-- Troposphere
 - Zookeeper
 
 

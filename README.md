@@ -20,7 +20,7 @@ Components
     - Secure transport (openssh-server)
     - Service discovery (smartstack-synapse + haproxy)
     - Service registration (smartstack-nerve)
-    - Software-based RAID10-backed "/vault" persisten encrypted file system (mdadm + cryptsetup + ext4)
+    - Software-based RAID10-backed "/vault" encrypted file system (mdadm + cryptsetup + ext4)
     - Stateful packet inspection firewall (netfilter + iptables + ufw)
     - Time synchronization (ntp-client)
 

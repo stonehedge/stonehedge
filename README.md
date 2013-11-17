@@ -58,8 +58,7 @@ Components
     - Framework for long running services (marathon-server)
 
 
-Cookbooks
----------
+### Cookbooks
   - stonehedge-anchor
   - stonehedge-barrow
   - stonehedge-base

@@ -37,7 +37,7 @@ Features
 Components
 ----------
 
-### AWS Services Integration
+### Integrated AWS Services
 
   - CloudFormation
   - EBS

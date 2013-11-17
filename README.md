@@ -6,6 +6,8 @@ A fortified warehouse-scale computing platform developed at [Wrale](https://www.
 Components
 ----------
 
+### Instances
+
 #### Privacy Level: All
 
   - **All Instances: Baseline**

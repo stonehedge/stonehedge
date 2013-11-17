@@ -59,7 +59,7 @@ Components
     - Configuration management (chef-client)
     - Encrypted backups (duplicity + rdiff-backup + duply)
     - Local email relay (postfix-server)
-    - GNU/Linux operating system (ubuntu-12.04.latest.x86_64)
+    - GNU/Linux operating system (ubuntu-12.04.latest.x86_64 + 3.8 kernel)
     - Logs transport (lumberjack-client)
     - Monitor and metrics agent (sensu-client)
     - Rootkit scanner (rootkit-hunter)

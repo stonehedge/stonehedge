@@ -43,6 +43,7 @@ Components
 
 - AWS
   - CloudFormation
+  - CloudWatch
   - EBS
   - EC2
   - ELB

@@ -48,7 +48,7 @@ Components
   - **Lintel Instances: Compute**
     - Cluster execution engine (mesos-slave)
     - Mesh VPN cluster fabric (peervpn)
-    - Distributed file system client (glusterfs-client)
+    - Distributed file system client (glusterfs-client + glusterfs-hadoop)
     - Distributed file system server (glusterfs-server)
   - **Trilithon Instances: Manager**
     - Cluster manager (mesos-master)

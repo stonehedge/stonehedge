@@ -25,7 +25,6 @@ Features
 - Lumberjack
 - Marathon
 - Mesos
-- OpsWorks
 - Packer
 - PeerVPN
 - Sensu

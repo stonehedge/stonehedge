@@ -3,8 +3,35 @@ Stonehedge
 
 A fortified warehouse-scale computing platform developed at [Wrale](https://www.linkedin.com/in/jmdots) for AWS EC2 VPCs.
 
+
+Semantic Version
+----------------
+0.1.0
+
+Status
+------
+Early development (unstable)
+
+License
+-------
+Apache License, Version 2.0
+
 Components
 ----------
+
+### AWS Services Integration
+
+  - CloudFormation
+  - EBS
+  - EC2
+  - ELB
+  - IAM
+  - Route53
+  - S3
+  - SES
+  - SNS
+  - VPC
+
 
 ### Instances
 

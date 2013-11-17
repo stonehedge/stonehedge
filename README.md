@@ -7,6 +7,30 @@ A fortified warehouse-scale computing platform developed at [Wrale](https://www.
 - **Status**: Early development (unstable)
 - **License**: Apache Software License, Version 2.0
 
+Features
+--------
+
+- Chef
+- Chronos
+- ElasticSearch
+- Exhibitor
+- FreeIPA
+- Graphiti
+- GlusterFS + HDFS connector
+- Kibana
+- Jenkins
+- Logstash
+- Lumberjack
+- Marathon
+- Mesos
+- OpsWorks
+- PeerVPN
+- Sensu
+- Smartstack Nerve
+- Smartstack Synapse
+- Troposphere
+- Zookeeper
+
 
 Components
 ----------

@@ -37,8 +37,9 @@ Features
 Components
 ----------
 
-### Integrated AWS Services
+### Integrated Services
 
+- AWS
   - CloudFormation
   - EBS
   - EC2
@@ -46,9 +47,10 @@ Components
   - IAM
   - Route53
   - S3
-  - SES
   - SNS
   - VPC
+- Mailchimp
+  - Mandrill
 
 
 ### Instances

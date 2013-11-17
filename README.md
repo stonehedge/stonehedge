@@ -25,10 +25,12 @@ Features
 - Marathon
 - Mesos
 - OpsWorks
+- Packer
 - PeerVPN
 - Sensu
 - Smartstack Nerve
 - Smartstack Synapse
+- Ubuntu
 - Zookeeper
 
 

@@ -27,7 +27,7 @@ Components
 #### Privacy Level: Public
 
   - **Anchor Instances**
-    - Caching proxy for AWS APIs and distro package downloads (squid-proxy)
+    - Caching proxy for external APIs and distro package downloads (squid-proxy)
     - Continuous integration engine (jenkins)
     - Email relay-to-external server (postfix-server)
     - Identity, DNS and time server (freeipa-server)

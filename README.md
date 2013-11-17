@@ -18,6 +18,8 @@ Components
     - Monitor and metrics agent (sensu-client)
     - Rootkit scanner (rootkit-hunter)
     - Secure transport (openssh-server)
+    - Service discovery (smartstack-synapse + haproxy)
+    - Service registration (smartstack-nerve)
     - Software RAID (mdadm)
     - Stateful packet inspection firewall (netfilter + iptables + ufw)
     - Time synchronization (ntp-client)

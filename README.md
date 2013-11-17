@@ -10,6 +10,7 @@ A fortified warehouse-scale computing platform created at [Wrale](https://www.li
 Features
 --------
 
+- Boto
 - CFNdsl
 - Chef
 - Chronos
@@ -51,6 +52,15 @@ Components
   - VPC
 - MailChimp
   - Mandrill
+
+
+### Cookbooks
+  - stonehedge-anchor
+  - stonehedge-barrow
+  - stonehedge-base
+  - stonehedge-bastion
+  - stonehedge-lintel
+  - stonehedge-trilithon
 
 
 ### Instances
@@ -105,10 +115,6 @@ Components
     - Framework for long running services (marathon-server)
 
 
-### Cookbooks
-  - stonehedge-anchor
-  - stonehedge-barrow
-  - stonehedge-base
-  - stonehedge-bastion
-  - stonehedge-lintel
-  - stonehedge-trilithon
+Getting Started
+---------------
+To be continued...

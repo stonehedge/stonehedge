@@ -20,7 +20,7 @@ Components
     - Service discovery (smartstack-synapse + haproxy)
     - Service registration (smartstack-nerve)
     - Software-based RAID10-backed "/vault" encrypted file system (mdadm + cryptsetup + ext4)
-    - Stateful packet inspection firewall (netfilter + iptables + ufw)
+    - Stateful packet inspection firewall (netfilter + iptables + ufw + fail2ban)
     - Time synchronization (ntp-client)
 
 #### Privacy Level: Public
